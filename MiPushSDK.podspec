@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name             = "MiPushSDK"
-s.version          = "2.2.9"
+s.version          = "2.2.11"
 s.summary          = "小米推送 MiPush iOS SDK."
 s.homepage         = "http://dev.xiaomi.com"
 s.license          = {
